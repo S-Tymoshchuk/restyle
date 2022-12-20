@@ -1,0 +1,11 @@
+export const HEALTH_PATH = 'health';
+export const AUTH_PATH = 'auth';
+export const EMAIL_CONFIRMATION_PATH = 'email-confirmation';
+export const EMAIL_RESET_PASSWORD = 'reset-password';
+export const TOOL_PATH = 'tools';
+export const SUBSCRIPTION_PATH = 'subscriptions';
+export const USER_PATH = 'users';
+export const TAILOR_PATH = 'tailors';
+export const BASKET_PATH = 'basket';
+export const ORDER_PATH = 'order';
+export const REVIEW_PATH = 'review';
